@@ -1,0 +1,12 @@
+img
+{
+    display: block;
+    margin: auto;
+}
+body
+{
+    font-family: times-new-roman;
+    font-size: 16px;
+    text-align: center;
+    background-color: yellow;
+}
